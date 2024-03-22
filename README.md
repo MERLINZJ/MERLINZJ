@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MERLINZJ
+- 👋 Hi, I’m @MERLIN
 - 👀 I’m interested in Genshin  impact! 
 <!---
 MERLINZJ/MERLINZJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
